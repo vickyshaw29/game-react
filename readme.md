@@ -16,7 +16,7 @@ The app is made using React with Typescript ,mui and jest (with atomic design st
 Clone the project
 
 ```bash
-  git clone git@github.com:vickyshaw29/game-react.git
+  git clone https://github.com/vickyshaw29/game-react.git
 ```
 
 Go to the project directory
